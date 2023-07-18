@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/game/static/css/main.af1e251c.css",
-    "main.js": "/game/static/js/main.59f649a6.js",
+    "main.css": "/game/static/css/main.4591ca7d.css",
+    "main.js": "/game/static/js/main.4b3ce585.js",
     "static/media/gameboard.png": "/game/static/media/gameboard.46750711c53e074956fe.png",
     "static/media/heart.png": "/game/static/media/heart.1b04664015d5a4395b9b.png",
     "static/media/flag.png": "/game/static/media/flag.b9a065de98a68e352f7a.png",
     "static/media/heart.svg": "/game/static/media/heart.dc5619f4948707b8ab00c4af979ac643.svg",
     "index.html": "/game/index.html",
-    "main.af1e251c.css.map": "/game/static/css/main.af1e251c.css.map",
-    "main.59f649a6.js.map": "/game/static/js/main.59f649a6.js.map"
+    "main.4591ca7d.css.map": "/game/static/css/main.4591ca7d.css.map",
+    "main.4b3ce585.js.map": "/game/static/js/main.4b3ce585.js.map"
   },
   "entrypoints": [
-    "static/css/main.af1e251c.css",
-    "static/js/main.59f649a6.js"
+    "static/css/main.4591ca7d.css",
+    "static/js/main.4b3ce585.js"
   ]
 }
